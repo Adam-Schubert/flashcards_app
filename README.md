@@ -1,4 +1,4 @@
-flashcard-app-capstone
+Flashcard Capstone
 
 This repository contains the files for a Flashcard React app that is a capstone project for Adam Schubert, a student in the Thinkful flex software engineering program.
 
