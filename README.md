@@ -8,4 +8,4 @@ It uses React, JSX, JavaScript, HTML and inline CSS with Bootstrap.
 
 To use this React app, fork and clone the repository, and then run npm init and npm start in the command line.
 
-Among those who contributed to Adam Schubert's completion of this project was Jeff Baumgardt, a mentor in the Thinkful program.
+Speical thanks to Jeff Baumgardt, a mentor in the Thinkful program, who helped Adam complete this project.
