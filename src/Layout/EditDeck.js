@@ -21,7 +21,7 @@ function EditDeck() {
 const submitHandler = async (event) =>{ 
     event.preventDefault()
     await updateDeck(deck)
-    history.go(`/decks/${deck.id}`)
+    history.push(`/decks/${deck.id}`)
 };
 
 // cancel button handler
